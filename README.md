@@ -1,7 +1,8 @@
 ---
 
 ### My Skill Set:
-<br>
+
+---
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,tailwind,react,git,figma)
 
 
