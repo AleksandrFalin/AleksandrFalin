@@ -1,7 +1,6 @@
 ---
 
 ### My Skill Set:
-
 <img align="left" alt="JavaScript" width="40px" src="https://skillicons.dev/icons?i=javascript&theme=dark" />
 <img align="left" alt="HTML5" width="40px" src="https://skillicons.dev/icons?i=html&theme=dark" />
 <img align="left" alt="CSS3" width="40px" src="https://skillicons.dev/icons?i=css&theme=dark" />
