@@ -9,7 +9,7 @@
 [<img align="left" alt="scss" width="40px" src="https://skillicons.dev/icons?i=scss&theme=dark" />]
 [<img align="left" alt="React" width="40px" src="https://skillicons.dev/icons?i=react&theme=dark" />]
 [<img align="" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git&theme=dark" />]
-[<img align="" alt="Git" width="40px" src="https://skillicons.dev/icons?i=figma&theme=dark" />]
+<img align="" alt="Git" width="40px" src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
 [mail]: falin.2025@mail.ru
 
