@@ -10,6 +10,10 @@
 <img align="" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git&theme=dark" />
 <img align="" alt="Git" width="40px" src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
+
+
+
+
 [mail]: falin.2025@mail.ru
 
 <br>
